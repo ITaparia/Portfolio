@@ -210,3 +210,29 @@ a:hover {
 @media screen and (max-height: 30.25em) {
 	.codropsheader nav { display: none; }
 }
+
+
+
+
+
+
+.link
+{
+    color:#585858;
+}
+
+a:link
+{
+    color:#585858;
+}
+
+a:visited
+{
+    color:#585858;
+}
+
+.link:hover
+{
+    text-decoration: underline;
+	cursor:pointer;
+}
